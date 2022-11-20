@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Three
+{
+    public static void main(String args[])
+    {Scanner sc=new Scanner(System.in);
+    int a,b,c,d;
+    a=sc.nextInt();
+    b=sc.nextInt();
+    c=sc.nextInt();
+    d=sc.nextInt();
+    float e=(a+c);
+    float f=(b+d);
+    System.out.printf("Binoy's house is located at (%.1f,%.1f)",e/2,f/2);
+        //write your code
+    }
+}
