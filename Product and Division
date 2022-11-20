@@ -7,6 +7,6 @@ public class ProDiv
     int b=sc.nextInt();
     System.out.println(""+(a*b));
     System.out.println(""+(a/b));
-    System.out.println(""+(a%b));//write your code
+    System.out.println(""+(a%b));
     }
 }
